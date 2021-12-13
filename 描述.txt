@@ -1,0 +1,6 @@
+2012年欧洲杯决赛阶段16支球队的数据
+Team 球队
+Goals 进球数
+Shots on target 射正次数
+Shots off target 射偏次数
+Shooting Accuracy 射门精确度
